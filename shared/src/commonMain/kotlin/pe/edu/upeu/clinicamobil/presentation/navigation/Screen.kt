@@ -1,5 +1,6 @@
 package pe.edu.upeu.clinicamobil.presentation.navigation
 
+import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.automirrored.filled.Assignment
 import androidx.compose.material.icons.filled.Home
 import androidx.compose.material.icons.filled.MedicalServices

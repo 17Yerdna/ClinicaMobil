@@ -62,7 +62,7 @@ val LISTA_ACCESOS_RAPIDOS = listOf(
     OpcionAccesoRapido(
         titulo = "Revisar historias clínicas",
         descripcion = "Consulte antecedentes y seguimiento de consultas de atención.",
-        icono = Icons.Default.Assignment,
+        icono = Icons.AutoMirrored.Filled.Assignment,
         destino = Screen.Historias
     )
 )
